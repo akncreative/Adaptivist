@@ -17,7 +17,7 @@ A command-line application that takes a path to a file as an argument and prints
 <pre>
     1. Go to the application path or access the path using terminal
     2. execute - javac FileReader.java 
-    3. execute - FileReader.java //Users/akncreative/Desktop/input.txt
+    3. execute - java FileReader.java <path to file> (eg: java FileReader.java //Users/akncreative/Desktop/input.txt)
     4. input.txt file is attached inside project folder (same as in the pdf)
     5. Functionality of the applciation is expalined as comments within the java class. 
 </pre>
