@@ -33,7 +33,7 @@ public class FileReader {
         */
 
         System.out.println("\n File Reader Output: \n");
-         Arrays.stream(Files.readString(Paths.get(args[0]))
+        Arrays.stream(Files.readString(Paths.get(args[0]))
                 .split(" "))
                 .parallel()
                 .map(data -> data.replaceAll("[^a-zA-Z0-9]", ""))
