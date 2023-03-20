@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 public class FileReader {
     public static void main(String[] args) throws IOException {
 
-        //Checking if there is only  one argument passed and throwing exception for all other illegal arguments
+        //Checking if there is only one argument passed and throwing exception for all other illegal arguments
         if(args.length == 0 || args.length >1)
             throw new IllegalArgumentException("Multiple arguments found");
 
