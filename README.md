@@ -1,5 +1,5 @@
 
-<h3>file-reade-app</h3>
+<h3>file-reader-app</h3>
 <pre>
 A command-line application that takes a path to a file as an argument and prints a word count of its contents.
 </pre>
