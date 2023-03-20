@@ -8,11 +8,11 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 
-    /*
-        A command-line application that takes a path
-        to a file as an argument and prints
-        a word count of its contents.
-    */
+         /*
+             A command-line application that takes a path
+             to a file as an argument and prints
+             a word count of its contents.
+         */
 public class FileReader {
     public static void main(String[] args) throws IOException {
 
