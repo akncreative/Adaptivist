@@ -20,7 +20,6 @@ public class FileReader {
         if(args.length == 0 || args.length >1)
             throw new IllegalArgumentException("Multiple arguments found");
 
-
         /*
         Creating a java stream to read the file from the argument. This includes the following steps
             1. Splitting the contents of the file with spaces so that we will get a string of array having all the words
