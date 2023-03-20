@@ -1,5 +1,5 @@
 
-<h3>file-reader</h3>
+<h3>file-reade-appr</h3>
 <pre>
 A command-line application that takes a path to a file as an argument and prints a word count of its contents.
 </pre>
@@ -7,8 +7,9 @@ A command-line application that takes a path to a file as an argument and prints
 
 <h3>Assumptions</h3>
 <pre>
-    1. Texts are case-sensitive and considering same words are different in lower and upper cases( eg: True and true)
-    2. Only considering a-z, A-Z and 0-9 as valid characters and removing all other characters 
+    1. Application is only capable of reaidng one file at a time. Exccetion is thrown when no or multiple arguments are found.
+    2. Texts are case-sensitive and considering same words are different in lower and upper cases( eg: True and true)
+    3. Only considering a-z, A-Z and 0-9 as valid characters and removing all other characters 
 </pre>
     
     
@@ -17,6 +18,7 @@ A command-line application that takes a path to a file as an argument and prints
     1. Go to the application path or access the path using terminal
     2. execute - javac FileReader.java 
     3. execute - FileReader.java //Users/akncreative/Desktop/input.txt
+    4. input.txt file is attached inside project folder (same as in the pdf)
 </pre>
     
     
