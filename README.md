@@ -1,19 +1,27 @@
 
-A command-line application that takes a path to a file as an argument and prints a word count of its contents
+<h3>file-reader</h3>
+<pre>
+A command-line application that takes a path to a file as an argument and prints a word count of its contents.
+</pre>
 
-Assumptions
+
+<h3>Assumptions</h3>
+<pre>
     1. Texts are case-sensitive and considering same words are different in lower and upper cases( eg: True and true)
     2. Only considering a-z, A-Z and 0-9 as valid characters and removing all other characters 
+</pre>
     
     
-How to run application
-    1. Go to the application path/ access the path using terminal
-    2. javac FileReader.java 
-    3. FileReader.java //Users/akncreative/Desktop/input.txt
+<h3>How to run application</h3>
+<pre>
+    1. Go to the application path or access the path using terminal
+    2. execute - javac FileReader.java 
+    3. execute - FileReader.java //Users/akncreative/Desktop/input.txt
+</pre>
     
     
-Sample output
- 
+<h3>Sample output</h3>
+<pre>
 File Reader Output: 
 
 et : 6
@@ -125,3 +133,4 @@ Lacinia : 1
 dolore : 1
 aliqua : 1
 consectetur : 1
+</pre>
