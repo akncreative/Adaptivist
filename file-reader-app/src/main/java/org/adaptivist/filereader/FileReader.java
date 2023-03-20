@@ -7,11 +7,12 @@ import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-//Assuming the text is case-sensitive and considering same words are different in lower and upper cases
-//replacing all special characters and considering a-z, A-Z and 0-9
-/*A command-line application that takes a path
-    to a file as an argument and prints
-        a word count of its contents.*/
+
+    /*
+        A command-line application that takes a path
+        to a file as an argument and prints
+        a word count of its contents.
+    */
 public class FileReader {
     public static void main(String[] args) throws IOException {
 
