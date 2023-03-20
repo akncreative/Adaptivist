@@ -13,7 +13,7 @@ A command-line application that takes a path to a file as an argument and prints
 </pre>
     
     
-<h3>How to run application</h3>
+<h3>How to run the application</h3>
 <pre>
     1. Go to the application path or access the path using terminal
     2. execute - javac FileReader.java 
