@@ -19,6 +19,7 @@ A command-line application that takes a path to a file as an argument and prints
     2. execute - javac FileReader.java 
     3. execute - FileReader.java //Users/akncreative/Desktop/input.txt
     4. input.txt file is attached inside project folder (same as in the pdf)
+    5. Functionality of the applciation is expalined as comments within the java class. 
 </pre>
     
     
