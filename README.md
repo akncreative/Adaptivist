@@ -7,7 +7,7 @@ A command-line application that takes a path to a file as an argument and prints
 
 <h3>Assumptions</h3>
 <pre>
-    1. Application is only capable of reaidng one file at a time. Exccetion is thrown when no or multiple arguments are found.
+    1. Application is only capable of reading one file at a time. Exception is thrown when no or multiple arguments are found.
     2. Texts are case-sensitive and considering same words are different in lower and upper cases( eg: True and true)
     3. Only considering a-z, A-Z and 0-9 as valid characters and removing all other characters 
 </pre>
